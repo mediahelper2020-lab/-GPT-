@@ -1,0 +1,6 @@
+{
+  "name": "사회복지사 챗GPT 실습자료실",
+  "description": "사회복지사를 위한 찐실전 챗GPT 책의 공식 실습자료 및 맞춤형 GPTs 챗봇 링크 모음 페이지입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
